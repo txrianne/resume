@@ -5,7 +5,6 @@
     Torianne Brunson
 </head>
 
-<h1> resume </h1>
 
 
 
