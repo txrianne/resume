@@ -8,9 +8,9 @@
 <body>
 <h1>Calendar Generator in C</h1>
 
-<img src="C:\Users\toria\Pictures\accountant commands\Screenshot 2026-01-27 155601.png" alt="Code in C">
+<img src="Screenshot 2026-01-27 155601.png" alt="Code in C">
 
-<img src="C:\Users\toria\Pictures\accountant commands\Screenshot 2026-01-27 155619.png" alt="Output Example">
+<img src="Screenshot 2026-01-27 155619.png" alt="Output Example">
 
 <br><h2>Description</h2>
 <p1>The code above generates a calendar based on what the user enters. The project asks the user for how many days in the month, and what day of the week the month starts on. This project allowed me to learn the basics of user input, for loops, and implementing modulo in C.</p1>
