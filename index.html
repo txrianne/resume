@@ -6,10 +6,33 @@
 
 <title> Resume</title>
 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
+
         h1{text-align: center;}
         .miniheading{text-align:center;}
-    </style>
+        body{
+            margin:0;
+            padding: 10px;
+        }
+        
+        .container{
+            display:flex;
+            flex-direction: column;
+        }
+
+
+        @media (min-width:768) {
+            .container{
+                flex-direction: row;
+                max-width: 1200px;
+                margin:auto;
+                gap:30px;
+            }
+        }
+
+ </style>
 
 
 </head>
@@ -17,7 +40,7 @@
 
 
 
-   <body>
+ <body>
     
    
 <h1> <strong> Torianne Brunson</strong></h1>
@@ -27,6 +50,8 @@
 <!-- mini heading-->
 <p class = "miniheading"> Orlando, FL | to915181@ucf.edu | <a href="https://www.linkedin.com/in/torianneb/"> Linkedin</a> </p>
 
+
+<div class="container">
 
 <!-- summary-->
 
@@ -116,6 +141,6 @@ system admin tasks in a domain-based network.
 </ul>
 
 
-
+</div>
 </body>
 </html>
